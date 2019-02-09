@@ -1,0 +1,13 @@
+<html>
+   <body>
+      <h1> hello </h1>
+      <p> world</p>
+      <h2>corneluś</h2>
+      <h3>tek</h3>
+      <p>make the text <b> bold </b> </p>
+      <p>make characters appear <i> italic </i> </p>
+      <p>sup is used for character who should be <sup> superscript </sup> </p>
+      <p> 2 <sup> 32</sup> CO <sup> 2 </sup> </p>
+      <p> br <br /> used for new line<br /> </p>
+   </body>
+</html>
